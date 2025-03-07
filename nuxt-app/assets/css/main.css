@@ -1,0 +1,36 @@
+/* Global styles */
+:root {
+  --font-heading: "Nunito", sans-serif;
+  --font-body: "Nunito Sans", sans-serif;
+  --max-width: 800px;
+  --page-padding: 1rem;
+}
+
+body {
+  font-family: var(--font-body);
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+}
+
+/* Container styles */
+.container {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--page-padding);
+  box-sizing: border-box;
+}
+
+/* Page content styles */
+.page-content {
+  padding: 2rem 0;
+}
