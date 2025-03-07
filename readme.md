@@ -2,6 +2,9 @@
 
 A modern landing page application using Nuxt.js for the frontend and Payload CMS for content management.
 
+## VIDEO
+- https://youtu.be/HO7JSoGn_ZE
+
 ## Features
 
 - Component-based architecture
